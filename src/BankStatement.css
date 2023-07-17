@@ -1,0 +1,14 @@
+.bank-statement-container {
+    background-color: #0080ff;
+    padding: 20px;
+  }
+  
+  .bank-statement-title {
+    color: white;
+  }
+  
+  .search-button {
+    background-color: pink;
+    color: white;
+  }
+  
